@@ -1,0 +1,4 @@
+Chloe, 100
+Ben, 40
+Elliott, 80
+Yale, 82
